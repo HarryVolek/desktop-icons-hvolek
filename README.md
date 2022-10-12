@@ -1,0 +1,1 @@
+Fork of desktop-icons@csoriano hacked to allow dragging excess apps from dash->desktop

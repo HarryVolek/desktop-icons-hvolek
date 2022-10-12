@@ -1,0 +1,6 @@
+{
+    "name": "Desktop Icons",
+    "description": "desktop-icons@csoriano enhanced (hacked) to support Drag'n'Drop",
+    "uuid": "desktop-icons@hvolek",
+    "shell-version": ["3.34.0"]
+}
